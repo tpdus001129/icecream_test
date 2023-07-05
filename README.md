@@ -1,7 +1,8 @@
 # 🍧icecream test (개인 프로젝트)
-종류가 다양한 배스킨라빈스에서 이달의 베스트 아이스크림 TOP10을 선정하여 심리테스트 형식으로 만들어본 프로젝트입니다.<br/>
-[https://tpdus001129.github.io/icecream_test/](https://tpdus001129.github.io/icecream_test/)  
-<br/>
+[https://tpdus001129.github.io/icecream_test/](https://tpdus001129.github.io/icecream_test/)<br/><br/>
+종류가 다양한 배스킨라빈스에서 이달의 베스트 아이스크림 TOP10을 선정하여 심리테스트 형식으로 만들어본 프로젝트입니다.
+<br/><br/>
+
 ## 기술스택
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
